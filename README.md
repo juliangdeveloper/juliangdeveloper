@@ -25,3 +25,5 @@ Hago juegos y herramientas que corren 100% en el navegador: sin instalar, sin se
 
 ## 🛠️ Stack
 JavaScript (vanilla) · Web Audio / Web MIDI · Canvas · PWA · Godot 4 / GDScript · Google Apps Script
+
+Hecho con ❤️ y 🎮
