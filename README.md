@@ -12,11 +12,11 @@ Hago juegos y herramientas que corren 100% en el navegador: sin instalar, sin se
 | 🎹 [piano-magic](https://github.com/juliangdeveloper/piano-magic) | Combate RPG que se juega tocando piano (teclado, MIDI o micrófono) | [▶ Jugar](https://juliangdeveloper.github.io/piano-magic/) |
 | 🐱 [cozy-cat-cafe](https://github.com/juliangdeveloper/cozy-cat-cafe) | Juego cozy de café con clientes pixel art y hex-sort | [▶ Jugar](https://juliangdeveloper.github.io/cozy-cat-cafe/) |
 | 🧹 [sweep-route](https://github.com/juliangdeveloper/sweep-route) | Pinta un plano y obtén la ruta de barrido más corta | [▶ Probar](https://juliangdeveloper.github.io/sweep-route/) |
-| 🎼 [piano-transcribe](https://github.com/juliangdeveloper/piano-transcribe) | Toca y ve tus notas en partitura, en vivo | [▶ Probar](https://juliangdeveloper.github.io/piano-transcribe/) |
+| 🎼 [piano-transcribe](https://github.com/juliangdeveloper/piano-transcribe) | Motor open source: del piano (micrófono o MIDI) a partitura en vivo, con exportación MIDI y MusicXML | [▶ Probar](https://juliangdeveloper.github.io/piano-transcribe/) |
 | 💖 [planes-swipe](https://github.com/juliangdeveloper/planes-swipe) | Califica planes estilo Tinder desde tu Google Sheet | [▶ Demo](https://juliangdeveloper.github.io/planes-swipe/?demo=1) |
 | 🍽️ [food-log](https://github.com/juliangdeveloper/food-log) | Registra lo que comes en segundos, sin conexión | [▶ Probar](https://juliangdeveloper.github.io/food-log/) |
 | ✏️ [trazo-defense](https://github.com/juliangdeveloper/trazo-defense) | Tower defense para aprender a dibujar: cada torre dispara con un trazo | [▶ Jugar](https://juliangdeveloper.github.io/trazo-defense/) |
-| 🔍 [diff-review](https://github.com/juliangdeveloper/diff-review) | Revisa diffs de commits desde el celular con tu Google Sheet | [▶ Demo](https://juliangdeveloper.github.io/diff-review/?demo=1) |
+| 🔍 [diff-review](https://github.com/juliangdeveloper/diff-review) | Revisa desde el celular los commits de tu agente de IA, con tu Google Sheet | [▶ Demo](https://juliangdeveloper.github.io/diff-review/?demo=1) |
 | 🤖 [opengame](https://github.com/juliangdeveloper/opengame) | Prototipo en Godot 4 definido por un RuleBook en JSON: cada acción es una skill | [Ver repo](https://github.com/juliangdeveloper/opengame) |
 
 ## 🎲 Juegos de fiesta (2–4 jugadores, un dispositivo, con IA opcional)
