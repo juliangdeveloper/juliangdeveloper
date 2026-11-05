@@ -17,7 +17,8 @@ Hago juegos y herramientas que corren 100% en el navegador: sin instalar, sin se
 | 🍽️ [food-log](https://github.com/juliangdeveloper/food-log) | Registra lo que comes en segundos, sin conexión | [▶ Probar](https://juliangdeveloper.github.io/food-log/) |
 | ✏️ [trazo-defense](https://github.com/juliangdeveloper/trazo-defense) | Tower defense para aprender a dibujar: cada torre dispara con un trazo | [▶ Jugar](https://juliangdeveloper.github.io/trazo-defense/) |
 | 🔍 [diff-review](https://github.com/juliangdeveloper/diff-review) | Revisa desde el celular los commits de tu agente de IA, con tu Google Sheet | [▶ Demo](https://juliangdeveloper.github.io/diff-review/?demo=1) |
-| 🤖 [opengame](https://github.com/juliangdeveloper/opengame) | Prototipo en Godot 4 definido por un RuleBook en JSON: cada acción es una skill | [Ver repo](https://github.com/juliangdeveloper/opengame) |
+| 🤸 [pose-engine](https://github.com/juliangdeveloper/pose-engine) | Motor open source de pose con la cámara: mide ángulos, cuenta repeticiones y cronometra posturas | [▶ Probar](https://juliangdeveloper.github.io/pose-engine/) |
+| 📖 [opengame](https://github.com/juliangdeveloper/opengame) | Rulebook en el navegador de un RPG de acción isekai donde cada acción es una skill | [▶ Leer](https://juliangdeveloper.github.io/opengame/) |
 
 ## 🎲 Juegos de fiesta (2–4 jugadores, un dispositivo, con IA opcional)
 - 🌊 [Flood-It Party](https://juliangdeveloper.github.io/floodit-party/): conquista territorio inundando colores (basado en un paper de NP-dureza)
@@ -26,7 +27,7 @@ Hago juegos y herramientas que corren 100% en el navegador: sin instalar, sin se
 - 🌿 [VidaBalance](https://juliangdeveloper.github.io/vidabalance-v2/): juego de mesa de equilibrar tu vida
 
 ## 🛠️ Stack
-JavaScript (vanilla) · Web Audio / Web MIDI · Canvas · PWA · Godot 4 / GDScript · Google Apps Script
+JavaScript (vanilla) · Web Audio / Web MIDI · Canvas · PWA · MediaPipe · Google Apps Script
 
 ---
 
